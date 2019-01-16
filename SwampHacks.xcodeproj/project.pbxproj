@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		70B798A121EFB7F2008812A3 /* LocationWeather.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 70B798A021EFB7F2008812A3 /* LocationWeather.storyboard */; };
 		70D30C7421ED53B500A7C17D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70D30C7321ED53B500A7C17D /* AppDelegate.swift */; };
 		70D30C7621ED53B500A7C17D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70D30C7521ED53B500A7C17D /* ViewController.swift */; };
 		70D30C7921ED53B500A7C17D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 70D30C7721ED53B500A7C17D /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		70B798A021EFB7F2008812A3 /* LocationWeather.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LocationWeather.storyboard; sourceTree = "<group>"; };
 		70D30C7021ED53B400A7C17D /* SwampHacks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwampHacks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		70D30C7321ED53B500A7C17D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		70D30C7521ED53B500A7C17D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				70D30C7721ED53B500A7C17D /* Main.storyboard */,
 				70FD4D4D21EF9A72008F8925 /* TitlePage.storyboard */,
 				70FD4D4F21EF9A83008F8925 /* WeatherPage.storyboard */,
+				70B798A021EFB7F2008812A3 /* LocationWeather.storyboard */,
 				70D30C7A21ED53B600A7C17D /* Assets.xcassets */,
 				70D30C7C21ED53B600A7C17D /* LaunchScreen.storyboard */,
 				70D30C7F21ED53B600A7C17D /* Info.plist */,
@@ -130,6 +133,7 @@
 			files = (
 				70FD4D5021EF9A83008F8925 /* WeatherPage.storyboard in Resources */,
 				70D30C7E21ED53B600A7C17D /* LaunchScreen.storyboard in Resources */,
+				70B798A121EFB7F2008812A3 /* LocationWeather.storyboard in Resources */,
 				70D30C7B21ED53B600A7C17D /* Assets.xcassets in Resources */,
 				70FD4D4E21EF9A72008F8925 /* TitlePage.storyboard in Resources */,
 				70D30C7921ED53B500A7C17D /* Main.storyboard in Resources */,
